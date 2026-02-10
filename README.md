@@ -122,24 +122,18 @@ Tutte le visualizzazioni sono esportabili in alta risoluzione (300 DPI) per pubb
 ```
 computational-gastronomy/
 │
-├── Computational_Gastronomy.ipynb          # Main analysis notebook (EN)
-├── Computational_Gastronomy_ITA.ipynb      # Italian version with detailed theory
-├── requirements.txt                         # Python dependencies
-├── Menu_Ingredienti_Completo.txt           # Ingredient data
+├── Computational_Gastronomy.ipynb          # Notebook Principale (EN)
+├── Computational_Gastronomy_ITA.ipynb      # Notebook dettagliata (ITA)
+├── requirements.txt                         # Dipendenza Python
+├── Menu_Ingredienti_Completo.txt           # Dati sugli ingredienti
 │
-├── data/                                    # Data folder (not included in repo)
-│   ├── adjacency_matrices/                 # Recipe networks
+├── data/                                    # Cartella Dati
+│   ├── adjacency_matrices/                 # Struttura Ricette
 │   └── flavor_network/                     # Ahn et al. 2011 dataset
 │
-├── presentation/                            # Presentation materials
-│   ├── PRESENTATION_GUIDE_UPDATED.md       # Complete presentation guide
-│   ├── SLIDE_TEMPLATES_FINAL.txt           # PowerPoint slide templates
-│   └── SLIDE_6_SPEAKER_NOTES.md           # Detailed speaker notes
-│
-└── scripts/                                 # Visualization generation scripts
-    ├── generate_comparison_table.py
-    ├── generate_flavor_network_REALCATEGORIES.py
-    └── bootstrap_visualization_clean.py
+├── presentation/                            # Materiale presentazione
+    ├── imgs/                                            
+    └── Computational_GastronomyITA.pptx     # slide PowerPoint 
 ```
 
 ---
@@ -353,7 +347,7 @@ computational-gastronomy/
 │
 ├── presentation/                            # Presentation materials
     ├── imgs/                                            
-    └── Computational_GastronomyITA.pptx     # PowerPoint slideS
+    └── Computational_GastronomyITA.pptx     # PowerPoint slides
 
 ```
 
