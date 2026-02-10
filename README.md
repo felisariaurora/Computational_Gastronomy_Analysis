@@ -1,4 +1,4 @@
-# 🍽️ Computational Gastronomy: Network Analysis & Food Pairing
+# Computational Gastronomy: Network Analysis & Food Pairing
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Panoramica del Progetto
+## Panoramica del Progetto
 
 Questo progetto applica la **Network Science** e tecniche di **Machine Learning** al dominio culinario per rispondere a una domanda di ricerca specifica:
 
@@ -23,7 +23,7 @@ L'analisi è strutturata su tre livelli complementari:
 
 ---
 
-## 🔬 Analisi Svolte
+## Analisi Svolte
 
 ### 1. Analisi Topologica con Bootstrap Sampling
 
@@ -83,7 +83,7 @@ Il sistema identifica COME rendere possibili abbinamenti apparentemente incompat
 
 ---
 
-## 🛠️ Tecnologie Utilizzate
+## Tecnologie Utilizzate
 
 ### Core Libraries
 - **Python 3.x**
@@ -103,7 +103,7 @@ Il sistema identifica COME rendere possibili abbinamenti apparentemente incompat
 
 ---
 
-## 📊 Visualizzazioni Generate
+## Visualizzazioni Generate
 
 Il progetto produce visualizzazioni scientifiche di alta qualità:
 
@@ -138,7 +138,7 @@ computational-gastronomy/
 
 ---
 
-## 🚀 Come Eseguire il Progetto
+## Come Eseguire il Progetto
 
 ### 1. Clona la repository
 ```bash
@@ -182,7 +182,7 @@ Il notebook è strutturato in sezioni sequenziali:
 - Modularità 7x superiore
 - Tutte le differenze statisticamente significative
 
-### Scoperta Innovativa 🔬
+### Scoperta Innovativa
 **Path Length distingue tradizione da innovazione:**
 - Path = 1 → Abbinamenti tradizionali (validati chimicamente)
 - Path = 2-3 → Abbinamenti innovativi (richiedono ponti creativi)
@@ -191,7 +191,7 @@ Il notebook è strutturato in sezioni sequenziali:
 
 ---
 
-## 👤 Autore
+## Autore
 
 **Aurora Felisari**
 Laboratorio di Intelligenza Artificiale
@@ -200,13 +200,13 @@ Matricola: 397867
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset Ahn et al. (2011) from Nature Scientific Reports
 - El Celler de Can Roca for inspiring modernist cuisine data
@@ -223,7 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > A data-driven analysis exploring structural differences between traditional and avant-garde cuisine through Network Science, with chemical validation via the Ahn et al. (2011) Flavor Network.
 
-## 📋 Project Overview
+## Project Overview
 
 This project applies **Network Science** and **Machine Learning** techniques to the culinary domain to answer a specific research question:
 
@@ -237,7 +237,7 @@ The analysis is structured across three complementary levels:
 
 ---
 
-## 🔬 Key Analyses
+## Key Analyses
 
 ### 1. Topological Analysis with Bootstrap Sampling
 
@@ -297,7 +297,7 @@ The system identifies HOW to make seemingly incompatible pairings work.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Core Libraries
 - **Python 3.x**
@@ -317,7 +317,7 @@ The system identifies HOW to make seemingly incompatible pairings work.
 
 ---
 
-## 📊 Generated Visualizations
+## Generated Visualizations
 
 The project produces high-quality scientific visualizations:
 
@@ -353,7 +353,7 @@ computational-gastronomy/
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
 ```bash
@@ -389,7 +389,7 @@ The notebook is structured in sequential sections:
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 ### Hypothesis Confirmed ✅
 **Avant-garde cuisine exhibits more pronounced Small-World topology:**
@@ -405,7 +405,7 @@ The notebook is structured in sequential sections:
 **Concrete example:** Salmon + Maple Syrup works through Wine as a chemical bridge - validated in real cuisine!
 
 ---
-## 👤 Author
+## Author
 
 **Aurora Felisari**
 Artificial Intelligence Laboratory
@@ -414,13 +414,13 @@ ID: 397867
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Ahn et al. (2011) dataset from Nature Scientific Reports
 - El Celler de Can Roca for inspiring modernist cuisine data
